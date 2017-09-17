@@ -1,0 +1,2 @@
+this is repository is about the second activity on the online
+website Openclassrooms for the class "Gerez votre code avec Git et Github" 
